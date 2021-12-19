@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Die Pilzhose
+title:  Der Fische-Jogginganzug
 categories: [Nähen für Kinder]
 ---
 
