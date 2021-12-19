@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /categories/
-title: Nach Themen sortiert ...
+title: Nach Themen sortiert
 ---
 
 
