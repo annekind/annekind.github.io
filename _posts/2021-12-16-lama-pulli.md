@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Der Lama-Pulli
-categories: [Nähen,Kinder]
+categories: [Nähen für Kinder]
 ---
 
 ![](/images/2021-12-16-lama-pulli.JPG)
