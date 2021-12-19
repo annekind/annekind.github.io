@@ -5,7 +5,7 @@ layout: default
 {% capture i18n_date %}
 {{ page.date | date: "%-d" }}
 {% assign m = page.date | date: "%-m" | minus: 1 %}
-{{ site.data.de.months[m] }}
+{{ site.config.months[m] }}
 {{ page.date | date: "%Y" }}
 {% endcapture %}
 
