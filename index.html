@@ -2,24 +2,12 @@
 layout: default
 ---
 
-
-{% assign m = page.date | date: "%-m" %}
+{% capture i18n_date %}
 {{ page.date | date: "%-d" }}
-{% case m %}
-  {% when '1' %}Januar
-  {% when '2' %}Februar
-  {% when '3' %}März
-  {% when '4' %}April
-  {% when '5' %}Mai
-  {% when '6' %}Juni
-  {% when '7' %}Juli
-  {% when '8' %}August
-  {% when '9' %}September
-  {% when '10' %}Oktober
-  {% when '11' %}November
-  {% when '12' %}Dezember
-{% endcase %}
+{% assign m = page.date | date: "%-m" | minus: 1 %}
+{{ site.data.de.months[m] }}
 {{ page.date | date: "%Y" }}
+{% endcapture %}
 
 <div class="posts">
   {% for post in paginator.posts %}
