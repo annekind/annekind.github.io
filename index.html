@@ -2,8 +2,6 @@
 layout: default
 ---
 
-{% include date-ge.html date=page.date %}
-
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
@@ -11,7 +9,7 @@ layout: default
         <h1>{{ post.title }}</h1>
 
         <div>
-          <p class="post_date">{{ post.date | date: "%d. %m %Y" }}</p>
+          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
         </div>
       </a>
       <div class="entry">
