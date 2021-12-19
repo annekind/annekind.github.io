@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  College-Shirts im Partnerlook
-categories: [Nähen für Kinder,Nähe für Männer]
+categories: [Nähen für Kinder,Nähen für Männer]
 ---
 
 ![](2021-12-15-college-shirts-partnerlook.JPG)
