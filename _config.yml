@@ -100,3 +100,16 @@ exclude:
   - README.md
   - CNAME
 
+months:
+    - Januar
+    - Februar
+    - März
+    - April
+    - Mai
+    - Juni
+    - Juli
+    - August
+    - September
+    - Oktober
+    - November
+    - Dezember
