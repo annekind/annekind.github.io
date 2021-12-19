@@ -4,7 +4,6 @@ title:  Der Koffer
 categories: [Der Verkleidungskoffer]
 ---
 
-![](/images/2021-12-16-verkleidungskoffer.JPG)
 
 Im Kindergartenalter sind Rollenspiele einfach das Größte.
 Ich erinnere mich, dass wir als Kinder einen alten Koffer voll mit Kostümen und Klamotten aus der Jugend meiner Mutter besaßen.
