@@ -4,7 +4,7 @@ title:  College-Shirts im Partnerlook
 categories: [Nähen für Kinder,Nähen für Männer]
 ---
 
-![](2021-12-15-college-shirts-partnerlook.JPG)
+![](/images/2021-12-15-college-shirts-partnerlook.JPG)
 
 Diese College-Shirts habe ich als Gag für meinen Mann und meinen Sohn genäht.
 Die Schnittmuster sind von [klimperklein](klimperklein.com) - das für den Papi aus dem Buch [Klimpergross](https://www.topp-kreativ.de/naehen-mit-jersey-klimpergross-6492).
