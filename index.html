@@ -2,12 +2,7 @@
 layout: default
 ---
 
-{% capture i18n_date %}
-{{ page.date | date: "%-d" }}
-{% assign m = page.date | date: "%-m" | minus: 1 %}
-{{ site.config.months[m] }}
-{{ page.date | date: "%Y" }}
-{% endcapture %}
+{% include date-ge.html date=page.date %}
 
 <div class="posts">
   {% for post in paginator.posts %}
