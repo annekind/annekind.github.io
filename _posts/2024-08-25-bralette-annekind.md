@@ -35,18 +35,28 @@ _Ich nähe den Bralette heute mal in blau und weiß, damit man auf den Fotos all
 
 ![](/images/bralette/bralette-zuschnitt.jpg)
 _Zuschnitt: An den Seiten des Bandes habe ich einfach etwas mehr Stoff stehen lassen. So kann die Unterbrustweite nachher durch anprobieren festgelegt werden._
-
+<br/>
 
 ![](/images/bralette/Zuschnitt_teil_B.jpg)
-_Hier sieht man gut, dass bei Teil B die längste Kante des Dreiecks die Spitzenborte hat. An der zweitlängsten Seite brauchen wir etwas mehr NZG und schneiden diese an der markierten Stelle ein (hier sieht man den Einschnitt, es ist da, wo die Schere steckt.)._
+_Hier sieht man gut, dass bei Teil B die längste Kante des Dreiecks die Spitzenborte hat. An der zweitlängsten Seite brauchen wir etwas mehr NZG und schneiden diese an der markierten Stelle ein (hier sieht man den Einschnitt, es ist da, wo die Schere steckt.)._<br/>
 
 **Anleitung:**
 
-_Schritt 1:_ Bei beiden Körbchen mit einem kleinen Zickzackstich (oder Stretch-Stich) die Abnäher nähen. NZG knapp zurückschneiden. Ich nähe nun so weiter, dass die NZG nach außen zeigen wird (sie wird also nur von der Spitze verdeckt), da dies bequemer ist. Wenn euch die Optik von außen wichtiger ist und die Spitze sehr löchrig, könnt ihr es natürlich auch umgekehrt machen.
+_Schritt 1:_ Bei beiden Körbchen mit einem kleinen Zickzackstich (oder Stretch-Stich) die Abnäher nähen, dabei auf eine Abrundung achten. NZG knapp zurückschneiden. Ich nähe nun so weiter, dass die NZG nach außen zeigen wird (sie wird also nur von der Spitze verdeckt), da dies bequemer ist. Wenn euch die Optik von außen wichtiger ist und die Spitze sehr löchrig, könnt ihr es natürlich auch umgekehrt machen.
+![](/images/bralette/bralette-abnaeher.jpg)<br/>
+
 
 _Schritt 2:_ Die eben genähten Körbchen als Schnittmuster nutzen und jeweils aus Spitze zuschneiden.
+![](/images/bralette/zuschnitt-teil-B-spitze.jpg)<br/>
 
-_Schritt 3:_ Auf Teil A (in Ripp-Jersey) und Teil B rechts auf links aufeinanderlegen. Teil A aus Spitze darauflegen. Dabei Teil B einklappen und mit Stecknadeln fixieren, damit es nicht aus Versehen mitgenäht wird. Teil B schaut oben raus (hier eng falten). Jeweils die Seitennähte des Körbchens nähen. Auf rechts wenden.
+
+_Schritt 3:_ Auf Teil A (in Ripp-Jersey) und Teil B aufeinanderlegen. In meiner Variante, in der die NZG nicht innen an der Brust liegt sondern unter der Spitze nachher nach außen zeigt (fällt kaum auf, wenn die Spitze dicht genug ist), liegt <strong>Teil A mit der rechten Seiten nach oben und Teil B liegt ebenfalls mit der rechten Seite nach oben</strong>.
+![](/images/bralette/koerbchen1.jpg)<br/>
+
+Teil A aus Spitze mit der rechten Seite <strong>nach unten</strong> darauflegen. Alle drei Stofflagen mit Geradstich verbinden. Oben bleibt offen!
+![](/images/bralette/koerbchen2.jpg)<br/>
+
+Dabei Teil B einklappen und mit Stecknadeln fixieren, damit es nicht aus Versehen mitgenäht wird. Teil B schaut oben raus (hier eng falten). Jeweils die Seitennähte des Körbchens nähen. Auf rechts wenden.
 
 _Schritt 4:_ In den oberen Teil der Körbchen jeweils einen 40cm langen BH-Träger einfädeln, sodass ca. 1 cm innerhalb des Körbchens liegt. Die glänzende Seite des Trägers soll nachher außen liegen (d.h. auf der Seite mit der Spitze). Darauf achten, dass der obere Teil von Teil B über dem Träger liegt. Den Träger mit Stecknadeln fixieren und einmal mit einem dehnbaren Stich (z.B. kleiner Zickstackstich) die Spitze auf den Seiten fixieren und dabei oben den Träger mitfassen.
 
