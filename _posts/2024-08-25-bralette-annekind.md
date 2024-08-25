@@ -4,10 +4,10 @@ title:  Bralette Annekind
 categories: [Nähen für mich]
 ---
 
-![](/images/2024-08-25-bralette-annekind.JPG)
+![](/images/bralette/bralette-schwarz.jpg)
 
 Hier ist es, mein erstes eigenes Schnittmuster! Es entstand aus dem Wunsch, einen richtig bequemen BH zu nähen, den man beim Tragen quasi gar nicht merkt.
-Für extra kleine Brüste gibt's ja eh nicht viel zu halten, aber trotzdem ist es ja (noch) nicht (überall) gesellschaftsfähig, als Frau in jeder Situation ohne BH herumzulaufen. Aber ehe ich jetzt hier einen feministischen Blogeintrag schreibe (dazu hätte ich wirklich viel zu sagen :)), der BH sollte trotzdem auch schön aussehen. Einen schönen, bequemen BH für kleine Brüste findet man nämlich auch im Laden nicht einfach, und mit der Bestellung bei diversen Webshops war ich dann auch irgendwie nicht zufrieden. Aber wozu ist man ein Näh-Junkie. Nachdem ich eine Weile verschiedene Schnittmuster für BHs und Bustiers ausprobiert hatte, ist das finale Modell vor allem von dem Freebook [The Bralette](https://so-sew-easy.com/bralette-perfect-garment-summer/) von So Sew Easy inspiriert. Wenn ihr mein Bralette in einer größeren Größe nachnähen wollt, könnt ihr (bei etwas Nähtalent) dieses Freebook nehmen und es entsprechend abändern.
+Für extra kleine Brüste gibt's ja eh nicht viel zu halten, aber trotzdem ist es ja (noch) nicht (überall) gesellschaftsfähig, als Frau in jeder Situation ohne BH herumzulaufen. Aber ehe ich jetzt hier einen feministischen Blogeintrag schreibe (dazu hätte ich wirklich viel zu sagen :)), der BH sollte trotzdem auch schön aussehen. Einen schönen, bequemen BH für kleine Brüste findet man nämlich auch im Laden nicht einfach, und mit der Bestellung bei diversen Webshops war ich dann auch irgendwie nicht zufrieden. Aber wozu ist man ein Näh-Junkie. Nachdem ich eine Weile verschiedene Schnittmuster für BHs und Bustiers ausprobiert hatte, ist das finale Modell vor allem von dem Freebook [The Bralette](https://so-sew-easy.com/bralette-perfect-garment-summer/) von So Sew Easy inspiriert. Wenn ihr mein Bralette in einer größeren Größe nachnähen wollt, könnt ihr (mit etwas Nähtalent) dieses Freebook nehmen und es entsprechend abändern.
 
 
 Und das hier ist dabei herausgekommen: der *Bralette Annekind*.
@@ -16,7 +16,7 @@ Und das hier ist dabei herausgekommen: der *Bralette Annekind*.
 
 * Ripp-Jersey (z.B. "Matteo" von MAGAM Stoffe verwendet)
 * Spitzenstoff mit Rand-Bordüre (ich habe "Carmen" von MAGAM Stoffe verwendet, werde aber auf die Suche gehen nach einem etwas filigraneren Muster)
-* 1m [BH-Träger](https://www.amazon.de/dp/B0D3FV1TN6?ref=ppx_yo2ov_dt_b_fed_asin_title), 1cm breit
+* 1,10m BH-Träger [Amazon-Link](https://www.amazon.de/dp/B0D3FV1TN6?ref=ppx_yo2ov_dt_b_fed_asin_title), 1cm breit
 * 2 BH-Ringe und 2 BH-Schieber [Amazon-Link](https://www.amazon.de/dp/B0D636WXV3?ref=ppx_yo2ov_dt_b_fed_asin_title), 1cm breit
 * Garn in schwarz
 
