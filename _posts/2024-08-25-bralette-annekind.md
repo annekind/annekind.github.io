@@ -59,7 +59,9 @@ Teil A aus Spitze mit der rechten Seite <strong>nach unten</strong> darauflegen.
 
 Dabei Teil B einklappen und mit Stecknadeln fixieren, damit es nicht aus Versehen mitgenäht wird. Teil B schaut oben raus (hier eng falten). Jeweils die Seitennähte des Körbchens nähen. Auf rechts wenden.
 
-![](/images/bralette/koerbchen4.jpg)<br/>
+![](/images/bralette/koerbchen4.jpg)
+_Hier seht ihr, wie ich Teil B eingeklappt habe. Für den nächsten Schritt habe ich leider vergessen, ein Foto zu machen. Teil A aus Spitze wird runtergeklappt und dann wir die andere Seite des Körbchens zugenäht. Oben bleibt ein kleines Stück offen, die untere Seite bleibt ebenfalls offen. Durch die untere Seite kann nun leicht gewendet werden._
+<br/>
 
 
 _Schritt 4:_ In den oberen Teil der Körbchen jeweils einen 40cm langen BH-Träger einfädeln, sodass ca. 1 cm innerhalb des Körbchens liegt. Die glänzende Seite des Trägers soll nachher außen liegen (d.h. auf der Seite mit der Spitze). Darauf achten, dass der obere Teil von Teil B über dem Träger liegt und die NZG der oberen offenen Enden von Teil A jeweils nach innen einschlagen. Den Träger mit Stecknadeln fixieren und einmal mit einem dehnbaren Stich (z.B. kleiner Zickstackstich) die Spitze auf den Seiten fixieren und dabei oben den Träger mitfassen.
