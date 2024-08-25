@@ -23,6 +23,8 @@ Und das hier ist dabei herausgekommen: der *Bralette Annekind*.<br/>
 * 2 BH-Ringe und 2 BH-Schieber [Amazon-Link](https://www.amazon.de/dp/B0D636WXV3?ref=ppx_yo2ov_dt_b_fed_asin_title), 1cm breit
 * Garn in schwarz
 
+_Ich nähe den Bralette heute mal in blau und weiß, damit man auf den Fotos alles besser erkennt. Einfarbig sieht er natürlich viel eleganter aus!_
+
 **Zuschnitt:**
 
 * Ich gebe überall 7mm Nahtzugabe (NZG).
@@ -34,6 +36,9 @@ Und das hier ist dabei herausgekommen: der *Bralette Annekind*.<br/>
 ![](/images/bralette/bralette-zuschnitt.jpg)
 _Zuschnitt: An den Seiten des Bandes habe ich einfach etwas mehr Stoff stehen lassen. So kann die Unterbrustweite nachher durch anprobieren festgelegt werden._
 
+
+![](/images/bralette/Zuschnitt_teil_B.jpg)
+_Hier sieht man gut, dass bei Teil B die längste Kante des Dreiecks die Spitzenborte hat. An der zweitlängsten Seite brauchen wir etwas mehr NZG und schneiden diese an der markierten Stelle ein (hier sieht man den Einschnitt, es ist da, wo die Schere steckt.)._
 
 **Anleitung:**
 
