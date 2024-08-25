@@ -4,7 +4,7 @@ title:  Bralette Annekind
 categories: [Nähen für mich]
 ---
 
-![](/images/bralette/bralette-schwarz.jpg)
+![](/images/bralette/bralette-schwarz.png)
 
 Hier ist es, mein erstes eigenes Schnittmuster! Es entstand aus dem Wunsch, einen richtig bequemen BH zu nähen, den man beim Tragen quasi gar nicht merkt.
 Für extra kleine Brüste gibt's ja eh nicht viel zu halten, aber trotzdem ist es ja (noch) nicht (überall) gesellschaftsfähig, als Frau in jeder Situation ohne BH herumzulaufen. Aber ehe ich jetzt hier einen feministischen Blogeintrag schreibe (dazu hätte ich wirklich viel zu sagen :)), der BH sollte trotzdem auch schön aussehen. Einen schönen, bequemen BH für kleine Brüste findet man nämlich auch im Laden nicht einfach, und mit der Bestellung bei diversen Webshops war ich dann auch irgendwie nicht zufrieden. Aber wozu ist man ein Näh-Junkie. Nachdem ich eine Weile verschiedene Schnittmuster für BHs und Bustiers ausprobiert hatte, ist das finale Modell vor allem von dem Freebook [The Bralette](https://so-sew-easy.com/bralette-perfect-garment-summer/) von So Sew Easy inspiriert. Wenn ihr mein Bralette in einer größeren Größe nachnähen wollt, könnt ihr (mit etwas Nähtalent) dieses Freebook nehmen und es entsprechend abändern.
@@ -34,7 +34,7 @@ _Ich nähe den Bralette heute mal in blau und weiß, damit man auf den Fotos all
 * Die BH-Körbchen aus Spitze werden erst später zugeschnitten.
 
 ![](/images/bralette/bralette-zuschnitt.jpg)
-_Zuschnitt: An den Seiten des Bandes habe ich einfach etwas mehr Stoff stehen lassen. So kann die Unterbrustweite nachher durch anprobieren festgelegt werden._
+_Zuschnitt: An den Seiten des Bandes habe ich einfach etwas mehr Stoff stehen lassen. So kann die Unterbrustweite nachher durch Anprobieren festgelegt werden._
 <br/>
 
 ![](/images/bralette/Zuschnitt_teil_B.jpg)
@@ -53,15 +53,35 @@ _Schritt 2:_ Die eben genähten Körbchen als Schnittmuster nutzen und jeweils a
 _Schritt 3:_ Auf Teil A (in Ripp-Jersey) und Teil B aufeinanderlegen. In meiner Variante, in der die NZG nicht innen an der Brust liegt sondern unter der Spitze nachher nach außen zeigt (fällt kaum auf, wenn die Spitze dicht genug ist), liegt <strong>Teil A mit der rechten Seiten nach oben und Teil B liegt ebenfalls mit der rechten Seite nach oben</strong>.
 ![](/images/bralette/koerbchen2.jpg)<br/>
 
-Teil A aus Spitze mit der rechten Seite <strong>nach unten</strong> darauflegen. Alle drei Stofflagen mit Geradstich verbinden. Oben bleibt offen!
+Teil A aus Spitze mit der rechten Seite <strong>nach unten</strong> darauflegen. Alle drei Stofflagen mit Geradstich verbinden, dabei 1,5cm vor der oberen Spitze enden. Oben bleibt offen!
 ![](/images/bralette/koerbchen3.jpg)<br/>
 
 
 Dabei Teil B einklappen und mit Stecknadeln fixieren, damit es nicht aus Versehen mitgenäht wird. Teil B schaut oben raus (hier eng falten). Jeweils die Seitennähte des Körbchens nähen. Auf rechts wenden.
 
-_Schritt 4:_ In den oberen Teil der Körbchen jeweils einen 40cm langen BH-Träger einfädeln, sodass ca. 1 cm innerhalb des Körbchens liegt. Die glänzende Seite des Trägers soll nachher außen liegen (d.h. auf der Seite mit der Spitze). Darauf achten, dass der obere Teil von Teil B über dem Träger liegt. Den Träger mit Stecknadeln fixieren und einmal mit einem dehnbaren Stich (z.B. kleiner Zickstackstich) die Spitze auf den Seiten fixieren und dabei oben den Träger mitfassen.
+![](/images/bralette/koerbchen4.jpg)<br/>
 
-_Schritt 5:_ Die Spitze um die BH-Träger klappen und mit einem Zickzackstich fixieren.
+
+_Schritt 4:_ In den oberen Teil der Körbchen jeweils einen 40cm langen BH-Träger einfädeln, sodass ca. 1 cm innerhalb des Körbchens liegt. Die glänzende Seite des Trägers soll nachher außen liegen (d.h. auf der Seite mit der Spitze). Darauf achten, dass der obere Teil von Teil B über dem Träger liegt und die NZG der oberen offenen Enden von Teil A jeweils nach innen einschlagen. Den Träger mit Stecknadeln fixieren und einmal mit einem dehnbaren Stich (z.B. kleiner Zickstackstich) die Spitze auf den Seiten fixieren und dabei oben den Träger mitfassen.
+
+![](/images/bralette/koerbchen5.jpg)<br/>
+
+_Schritt 5:_ Die Spitze um die BH-Träger klappen und entlang der äußeren Kante des Trägers (da, wo umgeklappt wurde) mit einem Zickzackstich fixieren.
+
+![](/images/bralette/koerbchen6.jpg)
+_Hier ziehe ich den oberen Teil von Teil B so über den Träger, dass es umgeklappt werden kann._<br/>
+
+![](/images/bralette/koerbchen7.jpg)
+_Umklappen und feststecken._
+<br/>
+
+![](/images/bralette/koerbchen8.jpg)
+_Entlang der äußeren Kante knappkantig mit einem kleinen Zickzackstich absteppen. Dabei wird die Spitze vorn und hinten angenäht, sodass keine Ränder hervorstehen. Ich nähe dabei auch nochmal nach unten in Teil A hinein, sodass auch dort keine Ränder abstehen._<br/>
+
+![](/images/bralette/koerbchen9.jpg)
+_So sehen die Körbchen dann fertig aus.
+<br/>
+
 
 _Schritt 6:_ Nun werden die Körbchen rechts auf rechts am Band befestigt. Die Markierung (untere Mitte der Rundung) trifft genau auf den Abnäher. Die Spitzen von Teil B überlappen sich in der Mitte (welche Seite oben liegt ist hier egal). Mit einem normalen Geradstich festnähen.
 
