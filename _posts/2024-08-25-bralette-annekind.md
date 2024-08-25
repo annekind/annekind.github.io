@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Bralette Annekind
-categories: [Nähen für mich]
+categories: [Nähen für mich,Free Pattern]
 ---
 
 ![](/images/bralette/bralette-schwarz.png)
