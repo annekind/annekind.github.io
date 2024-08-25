@@ -10,9 +10,12 @@ Hier ist es, mein erstes eigenes Schnittmuster! Es entstand aus dem Wunsch, eine
 Für extra kleine Brüste gibt's ja eh nicht viel zu halten, aber trotzdem ist es ja (noch) nicht (überall) gesellschaftsfähig, als Frau in jeder Situation ohne BH herumzulaufen. Aber ehe ich jetzt hier einen feministischen Blogeintrag schreibe (dazu hätte ich wirklich viel zu sagen :)), der BH sollte trotzdem auch schön aussehen. Einen schönen, bequemen BH für kleine Brüste findet man nämlich auch im Laden nicht einfach, und mit der Bestellung bei diversen Webshops war ich dann auch irgendwie nicht zufrieden. Aber wozu ist man ein Näh-Junkie. Nachdem ich eine Weile verschiedene Schnittmuster für BHs und Bustiers ausprobiert hatte, ist das finale Modell vor allem von dem Freebook [The Bralette](https://so-sew-easy.com/bralette-perfect-garment-summer/) von So Sew Easy inspiriert. Wenn ihr mein Bralette in einer größeren Größe nachnähen wollt, könnt ihr (mit etwas Nähtalent) dieses Freebook nehmen und es entsprechend abändern.
 
 
-Und das hier ist dabei herausgekommen: der *Bralette Annekind*.
+Und das hier ist dabei herausgekommen: der *Bralette Annekind*.<br/>
 
-*Material:*
+![Download Schnittmuster (PDF)](/images/bralette/Bralette-Annekind.pdf)
+
+
+**Material:**
 
 * Ripp-Jersey (z.B. "Matteo" von MAGAM Stoffe verwendet)
 * Spitzenstoff mit Rand-Bordüre (ich habe "Carmen" von MAGAM Stoffe verwendet, werde aber auf die Suche gehen nach einem etwas filigraneren Muster)
@@ -20,7 +23,7 @@ Und das hier ist dabei herausgekommen: der *Bralette Annekind*.
 * 2 BH-Ringe und 2 BH-Schieber [Amazon-Link](https://www.amazon.de/dp/B0D636WXV3?ref=ppx_yo2ov_dt_b_fed_asin_title), 1cm breit
 * Garn in schwarz
 
-*Zuschnitt:*
+**Zuschnitt:**
 
 * Ich gebe überall 7mm Nahtzugabe (NZG).
 * 1x BH-Band aus Ripp-Jersey (passt die Länge dabei eurer Unterbrustweite an.
@@ -28,7 +31,11 @@ Und das hier ist dabei herausgekommen: der *Bralette Annekind*.
 * 2x (gespiegelt) BH-Körbchen Teil B aus Spitze, darauf achten, dass die Spitzenborte an der richtigen Seite ist.
 * Die BH-Körbchen aus Spitze werden erst später zugeschnitten.
 
-*Anleitung:*
+![](/images/bralette/bralette-zuschnitt.jpg)
+_Zuschnitt: An den Seiten des Bandes habe ich einfach etwas mehr Stoff stehen lassen. So kann die Unterbrustweite nachher durch anprobieren festgelegt werden._
+
+
+**Anleitung:**
 
 _Schritt 1:_ Bei beiden Körbchen mit einem kleinen Zickzackstich (oder Stretch-Stich) die Abnäher nähen. NZG knapp zurückschneiden. Ich nähe nun so weiter, dass die NZG nach außen zeigen wird (sie wird also nur von der Spitze verdeckt), da dies bequemer ist. Wenn euch die Optik von außen wichtiger ist und die Spitze sehr löchrig, könnt ihr es natürlich auch umgekehrt machen.
 
