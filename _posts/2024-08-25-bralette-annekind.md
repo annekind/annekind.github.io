@@ -86,7 +86,7 @@ _So sehen die Körbchen dann fertig aus._
 
 
 _Schritt 6:_ Nun werden die Körbchen rechts auf rechts am Band befestigt. Die Markierung (untere Mitte der Rundung) trifft genau auf den Abnäher. Die Spitzen von Teil B überlappen sich in der Mitte (welche Seite oben liegt ist hier egal). Mit einem normalen Geradstich festnähen.
-![](/images/bralette/koerbchen-annaehen.png)<br/>
+![](/images/bralette/koerbchen-annaehen.jpg)<br/>
 
 
 _Schritt 7:_ Das BH-Band hinten in der Mitte rechts auf rechts aufeinanderlegen und mit Geradstich zum Ring schließen.
