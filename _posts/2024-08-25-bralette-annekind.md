@@ -28,7 +28,7 @@ _Ich nähe den Bralette heute mal in blau und weiß, damit man auf den Fotos all
 **Zuschnitt:**
 
 * Ich gebe überall 7mm Nahtzugabe (NZG).
-* 1x BH-Band aus Ripp-Jersey (passt die Länge dabei eurer Unterbrustweite an.
+* 1x BH-Band aus Ripp-Jersey (passt die Länge dabei eurer Unterbrustweite an - falls ihr normalen Jersey nimmt, muss das Band etwas länger sein).
 * 2x BH-Körbchen Teil A (gespiegelt) aus Ripp-Jersey
 * 2x (gespiegelt) BH-Körbchen Teil B aus Spitze, darauf achten, dass die Spitzenborte an der richtigen Seite ist.
 * Die BH-Körbchen aus Spitze werden erst später zugeschnitten.
@@ -51,10 +51,11 @@ _Schritt 2:_ Die eben genähten Körbchen als Schnittmuster nutzen und jeweils a
 
 
 _Schritt 3:_ Auf Teil A (in Ripp-Jersey) und Teil B aufeinanderlegen. In meiner Variante, in der die NZG nicht innen an der Brust liegt sondern unter der Spitze nachher nach außen zeigt (fällt kaum auf, wenn die Spitze dicht genug ist), liegt <strong>Teil A mit der rechten Seiten nach oben und Teil B liegt ebenfalls mit der rechten Seite nach oben</strong>.
-![](/images/bralette/koerbchen1.jpg)<br/>
+![](/images/bralette/koerbchen2.jpg)<br/>
 
 Teil A aus Spitze mit der rechten Seite <strong>nach unten</strong> darauflegen. Alle drei Stofflagen mit Geradstich verbinden. Oben bleibt offen!
-![](/images/bralette/koerbchen2.jpg)<br/>
+![](/images/bralette/koerbchen3.jpg)<br/>
+
 
 Dabei Teil B einklappen und mit Stecknadeln fixieren, damit es nicht aus Versehen mitgenäht wird. Teil B schaut oben raus (hier eng falten). Jeweils die Seitennähte des Körbchens nähen. Auf rechts wenden.
 
