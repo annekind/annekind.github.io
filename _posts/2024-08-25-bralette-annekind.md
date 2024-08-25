@@ -10,7 +10,7 @@ Hier ist es, mein erstes eigenes Schnittmuster! Es entstand aus dem Wunsch, eine
 Für extra kleine Brüste gibt's ja eh nicht viel zu halten, aber trotzdem ist es ja (noch) nicht (überall) gesellschaftsfähig, als Frau in jeder Situation ohne BH herumzulaufen. Aber ehe ich jetzt hier einen feministischen Blogeintrag schreibe (dazu hätte ich wirklich viel zu sagen :)), der BH sollte trotzdem auch schön aussehen. Einen schönen, bequemen BH für kleine Brüste findet man nämlich auch im Laden nicht einfach, und mit der Bestellung bei diversen Webshops war ich dann auch irgendwie nicht zufrieden. Aber wozu ist man ein Näh-Junkie. Nachdem ich eine Weile verschiedene Schnittmuster für BHs und Bustiers ausprobiert hatte, ist das finale Modell vor allem von dem Freebook [The Bralette](https://so-sew-easy.com/bralette-perfect-garment-summer/) von So Sew Easy inspiriert. Wenn ihr mein Bralette in einer größeren Größe nachnähen wollt, könnt ihr (mit etwas Nähtalent) dieses Freebook nehmen und es entsprechend abändern.
 
 
-Und das hier ist dabei herausgekommen: der *Bralette Annekind*.<br/>
+Und das hier ist dabei herausgekommen: der *Bralette Annekind* (Für BH-Größen AAA und kleiner, Unterbrustweite flexibel).<br/>
 
 [Download Schnittmuster (PDF)](/images/bralette/Bralette-Annekind.pdf)
 
@@ -81,16 +81,46 @@ _Umklappen und feststecken._
 _Entlang der äußeren Kante knappkantig mit einem kleinen Zickzackstich absteppen. Dabei wird die Spitze vorn und hinten angenäht, sodass keine Ränder hervorstehen. Ich nähe dabei auch nochmal nach unten in Teil A hinein, sodass auch dort keine Ränder abstehen._<br/>
 
 ![](/images/bralette/koerbchen9.jpg)
-_So sehen die Körbchen dann fertig aus.
+_So sehen die Körbchen dann fertig aus._
 <br/>
 
 
 _Schritt 6:_ Nun werden die Körbchen rechts auf rechts am Band befestigt. Die Markierung (untere Mitte der Rundung) trifft genau auf den Abnäher. Die Spitzen von Teil B überlappen sich in der Mitte (welche Seite oben liegt ist hier egal). Mit einem normalen Geradstich festnähen.
+![](/images/bralette/koerbchen-annaehen.png)<br/>
 
-_Schritt 7:_ Das BH-Band hinten in der Mitte rechts auf rechts aufeinanderlegen und mit Geradstich zum Ring schließen. Die NZG unter den Körbchen und ringsherum 7mm nach unten klappen. (An dieser Stelle könntet ihr genau unter der NZG ein Gummiband einnähen, wenn ihr etwas mehr Halt wolltet. Ich nehme lieber einen sehr dehnbaren Stoff und schneide das BH-Band etwas kürzer zu, dann hat der BH trotzdem einigermaßen Halt, ist aber beim Tragen fast nicht zu spüren.) In zwei ca. 4cm lange Stücke BH-Träger je einen Ring fädeln und 6cm von der Mitte entfern je mit Nadeln fixieren (ihr könnt sie auch heften). Den Abstand von der Mitte könnt ihr natürlich anpassen, je nachdem, wie ihr den BH tragen wollt. Kleiner Tipp: anprobieren von _von jemand anders_ markieren lassen, wo die Träger am besten hingehören (da sich das Band doch ziemlich tut, vertut man sich sonst evtl. selbst -- ist mir passiert :)).
 
-_Schritt 8:_ Das Band hochklappen und oben um ca. 7mm einschlagen. Jetzt liegt NZG auf NZG und wir können das BH-Band oben ringsherum absteppen. Die BH-Träger mit den Ringen werden so mitgefasst.
+_Schritt 7:_ Das BH-Band hinten in der Mitte rechts auf rechts aufeinanderlegen und mit Geradstich zum Ring schließen.
+![](/images/bralette/band-zunaehen.jpg)<br/>
+
+Die NZG unter den Körbchen und ringsherum 7mm nach unten klappen. (An dieser Stelle könntet ihr genau unter der NZG ein Gummiband einnähen, wenn ihr etwas mehr Halt wolltet. Ich nehme lieber einen sehr dehnbaren Stoff und schneide das BH-Band etwas kürzer zu, dann hat der BH trotzdem einigermaßen Halt, ist aber beim Tragen fast nicht zu spüren.) In zwei ca. 4cm lange Stücke BH-Träger je einen Ring fädeln und 6cm von der Mitte entfern je mit Nadeln fixieren (ihr könnt sie auch heften). Den Abstand von der Mitte könnt ihr natürlich anpassen, je nachdem, wie ihr den BH tragen wollt. Kleiner Tipp: anprobieren von _von jemand anders_ markieren lassen, wo die Träger am besten hingehören (da sich das Band doch ziemlich tut, vertut man sich sonst evtl. selbst -- ist mir passiert :)).
+
+![](/images/bralette/ringe.jpg)<br/>
+
+
+_Schritt 8:_ Das Band hochklappen und oben um ca. 7mm einschlagen. Jetzt liegt NZG auf NZG und wir können das BH-Band oben ringsherum mit einem *sehr* dehnbaren Stich absteppen (ich habe den dreifachen Zickzackstich / Gummibandstich genommen). Die BH-Träger mit den Ringen werden so mitgefasst.
+
+![](/images/bralette/band-schliessen-hinten.jpg)
+_So sieht das umgeklappt hinten aus._<br/>
+
+![](/images/bralette/band-schliessen-vorn.jpg)
+_Und so vorne._<br/>
+
 
 _Schritt 9:_ Auf jeden BH-Träger einen Schieber schieben. Der mittlere Steg soll "nach innen" schauen. Das untere Ende des Bands von außen nach innen durch den Ring fädeln und dann von oben nach unten mit durch den Schieber schieben. Dann das Ende des Bands knappkantig absteppen und das Ende abschneiden.
 
+![](/images/bralette/schieber1.jpg)
+_Hier habe ich mal testweise einen schwarzen Schieber aufgefädelt, damit ihr besser sehen könnt, wierum er gehört._<br/>
+
+![](/images/bralette/schieber2.jpg)
+_Dann fädeln wir das Ende des Trägers durch den Ringe (von hinten nach vorn)._<br/>
+
+![](/images/bralette/schieber3.jpg)
+_Und anschließend fädeln wir das Ende des Trägers in den Schieber (das geht ganz leicht, wenn man das äußere Band etwas mitbewegt)._<br/>
+
+![](/images/bralette/schieber4.jpg)
+_Und nun noch das kurze Ende festnähen und abschneiden._<br/>
+
 _Das war's schon - BH-Träger einstellen und schon geht's bequem und sexy durch den Tag! :)_
+![](/images/bralette/blauer-bh.jpg)
+
+Hat Spaß gemacht? Passt? Passt nicht? Infos fehlen? Tippfehler gefunden? Schreibt mir und schickt mir eure Fotos - ihr erreicht mich in der [Stitchies App](https://www.stitchies.app/).
