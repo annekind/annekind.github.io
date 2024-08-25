@@ -1,0 +1,51 @@
+---
+layout: post
+title:  Bralette Annekind
+categories: [Nähen für mich]
+---
+
+![](/images/2024-08-25-bralette-annekind.JPG)
+
+Hier ist es, mein erstes eigenes Schnittmuster! Es entstand aus dem Wunsch, einen richtig bequemen BH zu nähen, den man beim Tragen quasi gar nicht merkt.
+Für extra kleine Brüste gibt's ja eh nicht viel zu halten, aber trotzdem ist es ja (noch) nicht (überall) gesellschaftsfähig, als Frau in jeder Situation ohne BH herumzulaufen. Aber ehe ich jetzt hier einen feministischen Blogeintrag schreibe (dazu hätte ich wirklich viel zu sagen :)), der BH sollte trotzdem auch schön aussehen. Einen schönen, bequemen BH für kleine Brüste findet man nämlich auch im Laden nicht einfach, und mit der Bestellung bei diversen Webshops war ich dann auch irgendwie nicht zufrieden. Aber wozu ist man ein Näh-Junkie. Nachdem ich eine Weile verschiedene Schnittmuster für BHs und Bustiers ausprobiert hatte, ist das finale Modell vor allem von dem Freebook [The Bralette](https://so-sew-easy.com/bralette-perfect-garment-summer/) von So Sew Easy inspiriert. Wenn ihr mein Bralette in einer größeren Größe nachnähen wollt, könnt ihr (bei etwas Nähtalent) dieses Freebook nehmen und es entsprechend abändern.
+
+
+Und das hier ist dabei herausgekommen: der *Bralette Annekind*.
+
+*Material:*
+
+* Ripp-Jersey (z.B. "Matteo" von MAGAM Stoffe verwendet)
+* Spitzenstoff mit Rand-Bordüre (ich habe "Carmen" von MAGAM Stoffe verwendet, werde aber auf die Suche gehen nach einem etwas filigraneren Muster)
+* 1m [BH-Träger](https://www.amazon.de/dp/B0D3FV1TN6?ref=ppx_yo2ov_dt_b_fed_asin_title), 1cm breit
+* 2 BH-Ringe und 2 BH-Schieber [Amazon-Link](https://www.amazon.de/dp/B0D636WXV3?ref=ppx_yo2ov_dt_b_fed_asin_title), 1cm breit
+* Garn in schwarz
+
+*Zuschnitt:*
+
+* Ich gebe überall 7mm Nahtzugabe (NZG).
+* 1x BH-Band aus Ripp-Jersey (passt die Länge dabei eurer Unterbrustweite an.
+* 2x BH-Körbchen Teil A (gespiegelt) aus Ripp-Jersey
+* 2x (gespiegelt) BH-Körbchen Teil B aus Spitze, darauf achten, dass die Spitzenborte an der richtigen Seite ist.
+* Die BH-Körbchen aus Spitze werden erst später zugeschnitten.
+
+*Anleitung:*
+
+_Schritt 1:_ Bei beiden Körbchen mit einem kleinen Zickzackstich (oder Stretch-Stich) die Abnäher nähen. NZG knapp zurückschneiden. Ich nähe nun so weiter, dass die NZG nach außen zeigen wird (sie wird also nur von der Spitze verdeckt), da dies bequemer ist. Wenn euch die Optik von außen wichtiger ist und die Spitze sehr löchrig, könnt ihr es natürlich auch umgekehrt machen.
+
+_Schritt 2:_ Die eben genähten Körbchen als Schnittmuster nutzen und jeweils aus Spitze zuschneiden.
+
+_Schritt 3:_ Auf Teil A (in Ripp-Jersey) und Teil B rechts auf links aufeinanderlegen. Teil A aus Spitze darauflegen. Dabei Teil B einklappen und mit Stecknadeln fixieren, damit es nicht aus Versehen mitgenäht wird. Teil B schaut oben raus (hier eng falten). Jeweils die Seitennähte des Körbchens nähen. Auf rechts wenden.
+
+_Schritt 4:_ In den oberen Teil der Körbchen jeweils einen 40cm langen BH-Träger einfädeln, sodass ca. 1 cm innerhalb des Körbchens liegt. Die glänzende Seite des Trägers soll nachher außen liegen (d.h. auf der Seite mit der Spitze). Darauf achten, dass der obere Teil von Teil B über dem Träger liegt. Den Träger mit Stecknadeln fixieren und einmal mit einem dehnbaren Stich (z.B. kleiner Zickstackstich) die Spitze auf den Seiten fixieren und dabei oben den Träger mitfassen.
+
+_Schritt 5:_ Die Spitze um die BH-Träger klappen und mit einem Zickzackstich fixieren.
+
+_Schritt 6:_ Nun werden die Körbchen rechts auf rechts am Band befestigt. Die Markierung (untere Mitte der Rundung) trifft genau auf den Abnäher. Die Spitzen von Teil B überlappen sich in der Mitte (welche Seite oben liegt ist hier egal). Mit einem normalen Geradstich festnähen.
+
+_Schritt 7:_ Das BH-Band hinten in der Mitte rechts auf rechts aufeinanderlegen und mit Geradstich zum Ring schließen. Die NZG unter den Körbchen und ringsherum 7mm nach unten klappen. (An dieser Stelle könntet ihr genau unter der NZG ein Gummiband einnähen, wenn ihr etwas mehr Halt wolltet. Ich nehme lieber einen sehr dehnbaren Stoff und schneide das BH-Band etwas kürzer zu, dann hat der BH trotzdem einigermaßen Halt, ist aber beim Tragen fast nicht zu spüren.) In zwei ca. 4cm lange Stücke BH-Träger je einen Ring fädeln und 6cm von der Mitte entfern je mit Nadeln fixieren (ihr könnt sie auch heften). Den Abstand von der Mitte könnt ihr natürlich anpassen, je nachdem, wie ihr den BH tragen wollt. Kleiner Tipp: anprobieren von _von jemand anders_ markieren lassen, wo die Träger am besten hingehören (da sich das Band doch ziemlich tut, vertut man sich sonst evtl. selbst -- ist mir passiert :)).
+
+_Schritt 8:_ Das Band hochklappen und oben um ca. 7mm einschlagen. Jetzt liegt NZG auf NZG und wir können das BH-Band oben ringsherum absteppen. Die BH-Träger mit den Ringen werden so mitgefasst.
+
+_Schritt 9:_ Auf jeden BH-Träger einen Schieber schieben. Der mittlere Steg soll "nach innen" schauen. Das untere Ende des Bands von außen nach innen durch den Ring fädeln und dann von oben nach unten mit durch den Schieber schieben. Dann das Ende des Bands knappkantig absteppen und das Ende abschneiden.
+
+_Das war's schon - BH-Träger einstellen und schon geht's bequem und sexy durch den Tag! :)_

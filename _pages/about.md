@@ -10,7 +10,7 @@ Mit Hilfe des [Nähmaschinen-Ateliers](https://www.topp-kreativ.de/mein-grosses-
 Die besten Basic-Schnittmuster für Babies und Kinder sind meiner Ansicht nach in den Büchern von [Klimperklein](https://www.klimperklein.com/) zu finden.
 Inzwischen traue ich mich auch an Webware heran und nähe ab und zu auch Kleidung für mich selber (im Home Office fällt es ja auch keinem auf, wenn da mal was nicht ganz professionell aussieht). Die ersten [Blusenshirts](https://www.topp-kreativ.de/blusenshirts-naehen-8154?awc=16927_1639940038_722c545b6da378d99d453e045501872d) sind auch sehr schön geworden und ich trage sie sehr gern.
 
-Nähen ist super, denn man muss gerade genug konzentriert sein, um nicht mehr über die Arbeit oder was sonst so los ist nachzudenken. Es verbindet mich mit einigen wunderbaren Menschen in dieser Welt - meiner Schwester Tina, meiner Lieblingsnachbarin Heidi, meiner besten Freundin aus Münchner Zeiten Betty, und meiner Grundschulfreundin Verena.
+Nähen ist super, denn man muss gerade genug konzentriert sein, um nicht mehr über die Arbeit oder was sonst so los ist nachzudenken. Es verbindet mich mit einigen wunderbaren Menschen in dieser Welt.
 
 Meine Uroma war Handarbeitslehrerin und hat so über meine Oma (die bis heute die gesamte Großfamilie mit ihren 4 Töchtern, 4 Schwiegersöhnen, und insgesamt 12 Enkeln und 3 Urenkeln mit Wollsocken versorgt) und meine Mama wohl das Handarbeits-Gen an mich vererbt.
 Da ich immer gern etwas Neues lerne, findet ihr auf diesen Seiten nicht nur Genähtes, sondern auch Gestricktes, Gehäkeltes, Gemaltes, oder Gebasteltes.
