@@ -89,10 +89,10 @@ _Schritt 6:_ Nun werden die Körbchen rechts auf rechts am Band befestigt. Die M
 ![](/images/bralette/koerbchen-annaehen.jpg)<br/>
 
 
-_Schritt 7:_ Das BH-Band hinten in der Mitte rechts auf rechts aufeinanderlegen und mit Geradstich zum Ring schließen.
+_Schritt 7:_ Das BH-Band hinten in der Mitte rechts auf rechts aufeinanderlegen und mit Geradstich zum Ring schließen. (Jaja, den Nahttrenner habe ich auch gebraucht, da man doch bei diesem Schnitt aufpassen muss, dass sich der Stoff keine Falten wirft, die man aus Versehen mit annäht.)
 ![](/images/bralette/band-zunaehen.jpg)<br/>
 
-Die NZG unter den Körbchen und ringsherum 7mm nach unten klappen. (An dieser Stelle könntet ihr genau unter der NZG ein Gummiband einnähen, wenn ihr etwas mehr Halt wolltet. Ich nehme lieber einen sehr dehnbaren Stoff und schneide das BH-Band etwas kürzer zu, dann hat der BH trotzdem einigermaßen Halt, ist aber beim Tragen fast nicht zu spüren.) In zwei ca. 4cm lange Stücke BH-Träger je einen Ring fädeln und 6cm von der Mitte entfern je mit Nadeln fixieren (ihr könnt sie auch heften). Den Abstand von der Mitte könnt ihr natürlich anpassen, je nachdem, wie ihr den BH tragen wollt. Kleiner Tipp: anprobieren von _von jemand anders_ markieren lassen, wo die Träger am besten hingehören (da sich das Band doch ziemlich tut, vertut man sich sonst evtl. selbst -- ist mir passiert :)).
+Die NZG unter den Körbchen und ringsherum 7mm nach unten klappen. (An dieser Stelle könntet ihr genau unter der NZG ein Gummiband einnähen, wenn ihr etwas mehr Halt wolltet. Ich nehme lieber einen sehr dehnbaren Stoff und schneide das BH-Band etwas kürzer zu, dann hat der BH trotzdem einigermaßen Halt, ist aber beim Tragen fast nicht zu spüren.) In zwei ca. 4cm lange Stücke BH-Träger je einen Ring fädeln und 6cm von der Mitte entfern je mit Nadeln fixieren (ihr könnt sie auch heften). Den Abstand von der Mitte könnt ihr natürlich anpassen, je nachdem, wie ihr den BH tragen wollt. Kleiner Tipp: anprobieren von _von jemand anders_ markieren lassen, wo die Träger am besten hingehören (da sich das Band doch ziemlich dehnt, vertut man sich sonst evtl. selbst -- ist mir passiert :)).
 
 ![](/images/bralette/ringe.jpg)<br/>
 
