@@ -17,7 +17,7 @@ Und das hier ist dabei herausgekommen: der *Bralette Annekind* (Für BH-Größen
 
 **Material:**
 
-* Ripp-Jersey (z.B. "Matteo" von MAGAM Stoffe verwendet)
+* Ripp-Jersey (z.B. "Matteo" von MAGAM Stoffe -- für den Winter: Bündchenstoff, Jersey geht natürlich auch)
 * Spitzenstoff mit Rand-Bordüre (ich habe "Carmen" von MAGAM Stoffe verwendet, werde aber auf die Suche gehen nach einem etwas filigraneren Muster)
 * 1,10m BH-Träger [Amazon-Link](https://www.amazon.de/dp/B0D3FV1TN6?ref=ppx_yo2ov_dt_b_fed_asin_title), 1cm breit
 * 2 BH-Ringe und 2 BH-Schieber [Amazon-Link](https://www.amazon.de/dp/B0D636WXV3?ref=ppx_yo2ov_dt_b_fed_asin_title), 1cm breit
