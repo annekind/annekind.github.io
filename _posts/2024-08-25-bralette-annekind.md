@@ -12,7 +12,7 @@ Für extra kleine Brüste gibt's ja eh nicht viel zu halten, aber trotzdem ist e
 
 Und das hier ist dabei herausgekommen: der *Bralette Annekind*.<br/>
 
-![Download Schnittmuster (PDF)](/images/bralette/Bralette-Annekind.pdf)
+[Download Schnittmuster (PDF)](/images/bralette/Bralette-Annekind.pdf)
 
 
 **Material:**
